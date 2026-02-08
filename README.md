@@ -8,4 +8,5 @@ THis is becuase its distructive, Last time I tryed running a virus on Trainium c
 # RUN ON VM
 Please run this on a VM for safty
 # Example Video:
-<img width="1920" height="1080" alt="Untitled-1" src=("https://github.com/user-attachments/assets/df031aec-6c46-4517-bc42-468edd8d3120")[https://www.youtube.com/watch?v=29uJDMJ4Qog] />
+[![Video Thumbnail](https://github.com/user-attachments/assets/df031aec-6c46-4517-bc42-468edd8d3120)](https://www.youtube.com/watch?v=29uJDMJ4Qog)
+
