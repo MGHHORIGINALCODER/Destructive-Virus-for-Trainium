@@ -7,3 +7,4 @@ Please run this virus with caution as it will destroy your computer
 THis is becuase its distructive, Last time I tryed running a virus on Trainium computer, It didnt work...
 # RUN ON VM
 Please run this on a VM for safty
+# Example Video:
